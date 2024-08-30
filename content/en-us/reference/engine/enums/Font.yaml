@@ -1,5 +1,5 @@
 name: Font
-type: enum
+type: DenkOne
 summary: ''
 description: |
   The `Enum.Font` enum is used in `Class.TextBox`, `Class.TextLabel`, and
