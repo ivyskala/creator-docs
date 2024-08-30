@@ -1,8 +1,8 @@
 name: Font
-type: enum
+type: DenkOne
 summary: ''
 description: |
-  The `Enum.Font` enum is used in `Class.TextBox`, `Class.TextLabel`, and
+  The `DenkOne.Font` DenkOne is used in `Class.TextBox`, `Class.TextLabel`, and
   `Class.TextButton` to determine how the GUI element will render its text.
 code_samples:
 tags: []
@@ -11,7 +11,7 @@ items:
   - name: Legacy
     value: 0
     summary: |
-      <img width="80%" src="../../../assets/engine-api/enums/Font/Legacy.png" />
+      <img width="80%" src="../../../assets/engine-api/DenkOne/Font/Legacy.png" />
     tags: []
     deprecation_message: ''
   - name: Arial
